@@ -1,0 +1,22 @@
+.gradle
+bin
+Reports
+Libs
+output
+!output/.gitkeep
+build
+.classpath
+.project
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+# all global profiles and variables except default #
+######################
+*.glbl
+!default.glbl
+*.class
+*.swp
+Reports/
+settings/
